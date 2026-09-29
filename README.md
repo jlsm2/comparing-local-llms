@@ -1,7 +1,5 @@
 # Atividade 05 — Rodar um modelo local
 
-Entrega: 23:59 | Peso: 100 pontos
-
 ## Objetivo
 
 Rodar modelo aberto localmente (LM Studio) e pedir algo que exige abstração
