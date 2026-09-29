@@ -1,0 +1,28 @@
+<svg width="240" height="220" viewBox="0 0 240 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- ground -->
+  <line x1="20" y1="190" x2="220" y2="190" stroke="#ccc" stroke-width="2"/>
+
+  <!-- roof -->
+  <polygon points="30,100 120,40 210,100" fill="#c0392b" stroke="#922b21" stroke-width="2"/>
+  <!-- roof overhang line -->
+  <line x1="25" y1="102" x2="215" y2="102" stroke="#922b21" stroke-width="4"/>
+
+  <!-- house body -->
+  <rect x="50" y="100" width="140" height="90" fill="#f1c40f" stroke="#c9970a" stroke-width="2"/>
+
+  <!-- door -->
+  <rect x="105" y="140" width="30" height="50" fill="#8b4513" stroke="#5c2e0d" stroke-width="2" rx="3"/>
+  <circle cx="128" cy="165" r="2" fill="#f1c40f"/>
+
+  <!-- windows -->
+  <rect x="65" y="120" width="24" height="24" fill="#aee3f5" stroke="#5c2e0d" stroke-width="2"/>
+  <line x1="77" y1="120" x2="77" y2="144" stroke="#5c2e0d" stroke-width="1.5"/>
+  <line x1="65" y1="132" x2="89" y2="132" stroke="#5c2e0d" stroke-width="1.5"/>
+
+  <rect x="151" y="120" width="24" height="24" fill="#aee3f5" stroke="#5c2e0d" stroke-width="2"/>
+  <line x1="163" y1="120" x2="163" y2="144" stroke="#5c2e0d" stroke-width="1.5"/>
+  <line x1="151" y1="132" x2="175" y2="132" stroke="#5c2e0d" stroke-width="1.5"/>
+
+  <!-- chimney -->
+  <rect x="165" y="55" width="16" height="30" fill="#7f8c8d"/>
+</svg>

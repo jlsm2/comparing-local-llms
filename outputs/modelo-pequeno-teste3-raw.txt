@@ -1,0 +1,33 @@
+[?25lLoading meta/llama-3.2-3b ⠙[?25lLoading meta/llama-3.2-3b ⠹[?25lLoading meta/llama-3.2-3b ⠸[?25lLoading meta/llama-3.2-3b ⠼[?25lLoading meta/llama-3.2-3b ⠴[?25lLoading meta/llama-3.2-3b ⠦[?25lLoading meta/llama-3.2-3b ⠧[?25lLoading meta/llama-3.2-3b 0% ⠧[?25lLoading meta/llama-3.2-3b 0% ⠇[?25lLoading meta/llama-3.2-3b 0% ⠏[?25lLoading meta/llama-3.2-3b 2% ⠏[?25lLoading meta/llama-3.2-3b 2% ⠋[?25lLoading meta/llama-3.2-3b 4% ⠋[?25lLoading meta/llama-3.2-3b 4% ⠙[?25lLoading meta/llama-3.2-3b 6% ⠙[?25lLoading meta/llama-3.2-3b 6% ⠹[?25lLoading meta/llama-3.2-3b 6% ⠸[?25lLoading meta/llama-3.2-3b 7% ⠸[?25lLoading meta/llama-3.2-3b 7% ⠼[?25lLoading meta/llama-3.2-3b 9% ⠼[?25lLoading meta/llama-3.2-3b 9% ⠴[?25lLoading meta/llama-3.2-3b 11% ⠴[?25lLoading meta/llama-3.2-3b 11% ⠦[?25lLoading meta/llama-3.2-3b 11% ⠧[?25lLoading meta/llama-3.2-3b 12% ⠧[?25lLoading meta/llama-3.2-3b 12% ⠇[?25lLoading meta/llama-3.2-3b 14% ⠇[?25lLoading meta/llama-3.2-3b 14% ⠏[?25lLoading meta/llama-3.2-3b 15% ⠏[?25lLoading meta/llama-3.2-3b 15% ⠋[?25lLoading meta/llama-3.2-3b 15% ⠙[?25lLoading meta/llama-3.2-3b 17% ⠙[?25lLoading meta/llama-3.2-3b 17% ⠹[?25lLoading meta/llama-3.2-3b 17% ⠸[?25lLoading meta/llama-3.2-3b 17% ⠼[?25lLoading meta/llama-3.2-3b 17% ⠴[?25lLoading meta/llama-3.2-3b 17% ⠦[?25lLoading meta/llama-3.2-3b 18% ⠦[?25lLoading meta/llama-3.2-3b 18% ⠧[?25lLoading meta/llama-3.2-3b 19% ⠧[?25lLoading meta/llama-3.2-3b 19% ⠇[?25lLoading meta/llama-3.2-3b 19% ⠏[?25lLoading meta/llama-3.2-3b 21% ⠏[?25lLoading meta/llama-3.2-3b 21% ⠋[?25lLoading meta/llama-3.2-3b 21% ⠙[?25lLoading meta/llama-3.2-3b 21% ⠙[?25lLoading meta/llama-3.2-3b 21% ⠹[?25lLoading meta/llama-3.2-3b 23% ⠹[?25lLoading meta/llama-3.2-3b 23% ⠸[?25lLoading meta/llama-3.2-3b 24% ⠸[?25lLoading meta/llama-3.2-3b 24% ⠼[?25lLoading meta/llama-3.2-3b 24% ⠴[?25lLoading meta/llama-3.2-3b 25% ⠴[?25lLoading meta/llama-3.2-3b 25% ⠦[?25lLoading meta/llama-3.2-3b 26% ⠦[?25lLoading meta/llama-3.2-3b 26% ⠧[?25lLoading meta/llama-3.2-3b 26% ⠇[?25lLoading meta/llama-3.2-3b 27% ⠇[?25lLoading meta/llama-3.2-3b 27% ⠏[?25lLoading meta/llama-3.2-3b 28% ⠏[?25lLoading meta/llama-3.2-3b 28% ⠋[?25lLoading meta/llama-3.2-3b 29% ⠋[?25lLoading meta/llama-3.2-3b 29% ⠙[?25lLoading meta/llama-3.2-3b 29% ⠹[?25lLoading meta/llama-3.2-3b 30% ⠹[?25lLoading meta/llama-3.2-3b 30% ⠸[?25lLoading meta/llama-3.2-3b 31% ⠸[?25lLoading meta/llama-3.2-3b 31% ⠼[?25lLoading meta/llama-3.2-3b 32% ⠼[?25lLoading meta/llama-3.2-3b 32% ⠴[?25lLoading meta/llama-3.2-3b 100% ⠴[K[?25hAqui está um exemplo de código para criar um SVG de uma casa amarela com um telhado vermelho e uma porta marrom:
+
+```svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
+  <!-- Cor do fundo -->
+  <rect x="0" y="0" width="400" height="300" fill="#FFFFCC" />
+  
+  <!-- Telhado vermelho -->
+  <rect x="150" y="50" width="100" height="20" fill="#FF0000" rx="5" />
+  <path d="M 170,25 L 190,25 L 200,75 L 180,75 Z" fill="#FF0000" stroke="#FFFFFF" stroke-width="2" />
+  
+  <!-- Janela e porta marrom -->
+  <rect x="100" y="150" width="20" height="40" fill="#964B00" rx="5" />
+  <rect x="180" y="170" width="40" height="60" fill="#964B00" rx="5" />
+  
+  <!-- Porta -->
+  <rect x="190" y="130" width="10" height="30" fill="#964B00" rx="5" />
+</svg>
+```
+
+Esse código cria uma casa simples com um telhado vermelho e uma porta marrom. Você pode personalizar o estilo e a aparência da casa adicionando mais elementos ou ajustando as propriedades existentes.
+
+Para usar esse código, você precisará do software SVG do seu navegador ou editor de texto. Substitua o código acima em um arquivo com extensão `.svg` e abra-o para visualizar.
+
+Prediction Stats:
+  Stop Reason: eosFound
+  Tokens/Second: 101.86
+  Time to First Token: 0.073s
+  Prompt Tokens: 77
+  Predicted Tokens: 389
+  Total Tokens: 466
+

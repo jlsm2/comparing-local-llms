@@ -1,0 +1,25 @@
+[?25lLoading qwen/qwen2.5-7b ⠙[?25lLoading qwen/qwen2.5-7b ⠹[?25lLoading qwen/qwen2.5-7b ⠸[?25lLoading qwen/qwen2.5-7b 0% ⠸[?25lLoading qwen/qwen2.5-7b 0% ⠼[?25lLoading qwen/qwen2.5-7b 2% ⠼[?25lLoading qwen/qwen2.5-7b 2% ⠴[?25lLoading qwen/qwen2.5-7b 2% ⠦[?25lLoading qwen/qwen2.5-7b 4% ⠦[?25lLoading qwen/qwen2.5-7b 4% ⠧[?25lLoading qwen/qwen2.5-7b 6% ⠧[?25lLoading qwen/qwen2.5-7b 6% ⠇[?25lLoading qwen/qwen2.5-7b 7% ⠇[?25lLoading qwen/qwen2.5-7b 7% ⠏[?25lLoading qwen/qwen2.5-7b 7% ⠋[?25lLoading qwen/qwen2.5-7b 9% ⠋[?25lLoading qwen/qwen2.5-7b 9% ⠙[?25lLoading qwen/qwen2.5-7b 11% ⠙[?25lLoading qwen/qwen2.5-7b 11% ⠹[?25lLoading qwen/qwen2.5-7b 12% ⠹[?25lLoading qwen/qwen2.5-7b 12% ⠸[?25lLoading qwen/qwen2.5-7b 12% ⠼[?25lLoading qwen/qwen2.5-7b 14% ⠼[?25lLoading qwen/qwen2.5-7b 14% ⠴[?25lLoading qwen/qwen2.5-7b 15% ⠴[?25lLoading qwen/qwen2.5-7b 15% ⠦[?25lLoading qwen/qwen2.5-7b 17% ⠦[?25lLoading qwen/qwen2.5-7b 17% ⠧[?25lLoading qwen/qwen2.5-7b 17% ⠇[?25lLoading qwen/qwen2.5-7b 18% ⠇[?25lLoading qwen/qwen2.5-7b 18% ⠏[?25lLoading qwen/qwen2.5-7b 19% ⠏[?25lLoading qwen/qwen2.5-7b 19% ⠋[?25lLoading qwen/qwen2.5-7b 19% ⠙[?25lLoading qwen/qwen2.5-7b 19% ⠹[?25lLoading qwen/qwen2.5-7b 20% ⠹[?25lLoading qwen/qwen2.5-7b 20% ⠸[?25lLoading qwen/qwen2.5-7b 20% ⠼[?25lLoading qwen/qwen2.5-7b 21% ⠼[?25lLoading qwen/qwen2.5-7b 21% ⠴[?25lLoading qwen/qwen2.5-7b 23% ⠴[?25lLoading qwen/qwen2.5-7b 23% ⠦[?25lLoading qwen/qwen2.5-7b 24% ⠦[?25lLoading qwen/qwen2.5-7b 24% ⠧[?25lLoading qwen/qwen2.5-7b 24% ⠇[?25lLoading qwen/qwen2.5-7b 24% ⠏[?25lLoading qwen/qwen2.5-7b 24% ⠋[?25lLoading qwen/qwen2.5-7b 24% ⠙[?25lLoading qwen/qwen2.5-7b 24% ⠹[?25lLoading qwen/qwen2.5-7b 24% ⠹[?25lLoading qwen/qwen2.5-7b 24% ⠸[?25lLoading qwen/qwen2.5-7b 24% ⠼[?25lLoading qwen/qwen2.5-7b 29% ⠼[?25lLoading qwen/qwen2.5-7b 29% ⠴[?25lLoading qwen/qwen2.5-7b 30% ⠴[?25lLoading qwen/qwen2.5-7b 30% ⠦[?25lLoading qwen/qwen2.5-7b 31% ⠦[?25lLoading qwen/qwen2.5-7b 31% ⠧[?25lLoading qwen/qwen2.5-7b 31% ⠇[?25lLoading qwen/qwen2.5-7b 32% ⠇[?25lLoading qwen/qwen2.5-7b 32% ⠏[?25lLoading qwen/qwen2.5-7b 33% ⠏[?25lLoading qwen/qwen2.5-7b 33% ⠋[?25lLoading qwen/qwen2.5-7b 34% ⠋[?25lLoading qwen/qwen2.5-7b 34% ⠙[?25lLoading qwen/qwen2.5-7b 34% ⠹[?25lLoading qwen/qwen2.5-7b 34% ⠹[?25lLoading qwen/qwen2.5-7b 34% ⠸[?25lLoading qwen/qwen2.5-7b 35% ⠸[?25lLoading qwen/qwen2.5-7b 35% ⠼[?25lLoading qwen/qwen2.5-7b 36% ⠼[?25lLoading qwen/qwen2.5-7b 36% ⠴[?25lLoading qwen/qwen2.5-7b 37% ⠴[?25lLoading qwen/qwen2.5-7b 37% ⠦[?25lLoading qwen/qwen2.5-7b 37% ⠧[?25lLoading qwen/qwen2.5-7b 38% ⠧[?25lLoading qwen/qwen2.5-7b 38% ⠇[?25lLoading qwen/qwen2.5-7b 38% ⠇[?25lLoading qwen/qwen2.5-7b 38% ⠏[?25lLoading qwen/qwen2.5-7b 39% ⠏[?25lLoading qwen/qwen2.5-7b 39% ⠋[?25lLoading qwen/qwen2.5-7b 39% ⠙[?25lLoading qwen/qwen2.5-7b 40% ⠙[?25lLoading qwen/qwen2.5-7b 40% ⠹[?25lLoading qwen/qwen2.5-7b 41% ⠹[?25lLoading qwen/qwen2.5-7b 41% ⠸[?25lLoading qwen/qwen2.5-7b 41% ⠸[?25lLoading qwen/qwen2.5-7b 41% ⠼[?25lLoading qwen/qwen2.5-7b 41% ⠴[?25lLoading qwen/qwen2.5-7b 42% ⠴[?25lLoading qwen/qwen2.5-7b 42% ⠦[?25lLoading qwen/qwen2.5-7b 43% ⠦[?25lLoading qwen/qwen2.5-7b 43% ⠧[?25lLoading qwen/qwen2.5-7b 43% ⠧[?25lLoading qwen/qwen2.5-7b 43% ⠇[?25lLoading qwen/qwen2.5-7b 43% ⠏[?25lLoading qwen/qwen2.5-7b 44% ⠏[?25lLoading qwen/qwen2.5-7b 44% ⠋[?25lLoading qwen/qwen2.5-7b 45% ⠋[?25lLoading qwen/qwen2.5-7b 45% ⠙[?25lLoading qwen/qwen2.5-7b 45% ⠙[?25lLoading qwen/qwen2.5-7b 45% ⠹[?25lLoading qwen/qwen2.5-7b 45% ⠸[?25lLoading qwen/qwen2.5-7b 46% ⠸[?25lLoading qwen/qwen2.5-7b 46% ⠼[?25lLoading qwen/qwen2.5-7b 46% ⠼[?25lLoading qwen/qwen2.5-7b 46% ⠴[?25lLoading qwen/qwen2.5-7b 100% ⠴[K[?25hAqui está um exemplo simples de um SVG de um cachorro roxo com capacete:
+
+```svg
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="100" width="100" height="80" fill="#8713fe"/>
+  <circle cx="90" cy="80" r="40" stroke="#000" stroke-width="2" fill="#8713fe"/>
+  <ellipse cx="95" cy="120" rx="30" ry="20" fill="#fff"/>
+  <rect x="65" y="160" width="70" height="20" fill="#fff"/>
+  <circle cx="85" cy="140" r="5" fill="#000"/>
+  <line x1="75" y1="135" x2="90" y2="165" stroke="#000" stroke-width="2"/>
+</svg>
+```
+
+Este SVG cria um simples cachorro roxo com um capacete. O corpo do cachorro é representado por um retângulo, os olhos e nariz são circulos e elipses, e a "capacete" é representada por uma linha e um círculo menor.
+
+Você pode ajustar as dimensões, cores e formas para melhorar ou personalizar o desenho conforme necessário.
+
+Prediction Stats:
+  Stop Reason: eosFound
+  Tokens/Second: 49.77
+  Time to First Token: 0.147s
+  Prompt Tokens: 45
+  Predicted Tokens: 336
+  Total Tokens: 381
+

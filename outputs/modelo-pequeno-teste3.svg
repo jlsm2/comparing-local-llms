@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300">
+  <!-- Cor do fundo -->
+  <rect x="0" y="0" width="400" height="300" fill="#FFFFCC" />
+
+  <!-- Telhado vermelho -->
+  <rect x="150" y="50" width="100" height="20" fill="#FF0000" rx="5" />
+  <path d="M 170,25 L 190,25 L 200,75 L 180,75 Z" fill="#FF0000" stroke="#FFFFFF" stroke-width="2" />
+
+  <!-- Janela e porta marrom -->
+  <rect x="100" y="150" width="20" height="40" fill="#964B00" rx="5" />
+  <rect x="180" y="170" width="40" height="60" fill="#964B00" rx="5" />
+
+  <!-- Porta -->
+  <rect x="190" y="130" width="10" height="30" fill="#964B00" rx="5" />
+</svg>

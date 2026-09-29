@@ -1,0 +1,88 @@
+[?25lLoading meta/llama-3.2-3b ⠙[?25lLoading meta/llama-3.2-3b 0% ⠙[?25lLoading meta/llama-3.2-3b 0% ⠹[?25lLoading meta/llama-3.2-3b 2% ⠹[?25lLoading meta/llama-3.2-3b 2% ⠸[?25lLoading meta/llama-3.2-3b 2% ⠼[?25lLoading meta/llama-3.2-3b 4% ⠼[?25lLoading meta/llama-3.2-3b 4% ⠴[?25lLoading meta/llama-3.2-3b 6% ⠴[?25lLoading meta/llama-3.2-3b 6% ⠦[?25lLoading meta/llama-3.2-3b 7% ⠦[?25lLoading meta/llama-3.2-3b 7% ⠧[?25lLoading meta/llama-3.2-3b 9% ⠧[?25lLoading meta/llama-3.2-3b 9% ⠇[?25lLoading meta/llama-3.2-3b 9% ⠏[?25lLoading meta/llama-3.2-3b 11% ⠏[?25lLoading meta/llama-3.2-3b 11% ⠋[?25lLoading meta/llama-3.2-3b 12% ⠋[?25lLoading meta/llama-3.2-3b 12% ⠙[?25lLoading meta/llama-3.2-3b 14% ⠙[?25lLoading meta/llama-3.2-3b 14% ⠹[?25lLoading meta/llama-3.2-3b 14% ⠸[?25lLoading meta/llama-3.2-3b 15% ⠸[?25lLoading meta/llama-3.2-3b 15% ⠼[?25lLoading meta/llama-3.2-3b 17% ⠼[?25lLoading meta/llama-3.2-3b 17% ⠴[?25lLoading meta/llama-3.2-3b 18% ⠴[?25lLoading meta/llama-3.2-3b 18% ⠦[?25lLoading meta/llama-3.2-3b 18% ⠧[?25lLoading meta/llama-3.2-3b 19% ⠧[?25lLoading meta/llama-3.2-3b 19% ⠇[?25lLoading meta/llama-3.2-3b 21% ⠇[?25lLoading meta/llama-3.2-3b 21% ⠏[?25lLoading meta/llama-3.2-3b 22% ⠏[?25lLoading meta/llama-3.2-3b 22% ⠋[?25lLoading meta/llama-3.2-3b 22% ⠙[?25lLoading meta/llama-3.2-3b 23% ⠙[?25lLoading meta/llama-3.2-3b 23% ⠹[?25lLoading meta/llama-3.2-3b 24% ⠹[?25lLoading meta/llama-3.2-3b 24% ⠸[?25lLoading meta/llama-3.2-3b 26% ⠸[?25lLoading meta/llama-3.2-3b 26% ⠼[?25lLoading meta/llama-3.2-3b 26% ⠴[?25lLoading meta/llama-3.2-3b 27% ⠴[?25lLoading meta/llama-3.2-3b 27% ⠦[?25lLoading meta/llama-3.2-3b 28% ⠦[?25lLoading meta/llama-3.2-3b 28% ⠧[?25lLoading meta/llama-3.2-3b 29% ⠧[?25lLoading meta/llama-3.2-3b 29% ⠇[?25lLoading meta/llama-3.2-3b 29% ⠏[?25lLoading meta/llama-3.2-3b 30% ⠏[?25lLoading meta/llama-3.2-3b 30% ⠋[?25lLoading meta/llama-3.2-3b 31% ⠋[?25lLoading meta/llama-3.2-3b 31% ⠙[?25lLoading meta/llama-3.2-3b 32% ⠙[?25lLoading meta/llama-3.2-3b 32% ⠹[?25lLoading meta/llama-3.2-3b 32% ⠸[?25lLoading meta/llama-3.2-3b 33% ⠸[?25lLoading meta/llama-3.2-3b 33% ⠼[?25lLoading meta/llama-3.2-3b 34% ⠼[?25lLoading meta/llama-3.2-3b 34% ⠴[?25lLoading meta/llama-3.2-3b 34% ⠦[?25lLoading meta/llama-3.2-3b 34% ⠦[?25lLoading meta/llama-3.2-3b 34% ⠧[?25lLoading meta/llama-3.2-3b 35% ⠧[?25lLoading meta/llama-3.2-3b 35% ⠇[?25lLoading meta/llama-3.2-3b 36% ⠇[?25lLoading meta/llama-3.2-3b 36% ⠏[?25lLoading meta/llama-3.2-3b 36% ⠋[?25lLoading meta/llama-3.2-3b 37% ⠋[?25lLoading meta/llama-3.2-3b 37% ⠙[?25lLoading meta/llama-3.2-3b 38% ⠙[?25lLoading meta/llama-3.2-3b 38% ⠹[?25lLoading meta/llama-3.2-3b 38% ⠹[?25lLoading meta/llama-3.2-3b 38% ⠸[?25lLoading meta/llama-3.2-3b 38% ⠼[?25lLoading meta/llama-3.2-3b 39% ⠼[?25lLoading meta/llama-3.2-3b 39% ⠴[?25lLoading meta/llama-3.2-3b 40% ⠴[?25lLoading meta/llama-3.2-3b 40% ⠦[?25lLoading meta/llama-3.2-3b 41% ⠦[?25lLoading meta/llama-3.2-3b 41% ⠧[?25lLoading meta/llama-3.2-3b 41% ⠇[?25lLoading meta/llama-3.2-3b 41% ⠇[?25lLoading meta/llama-3.2-3b 41% ⠏[?25lLoading meta/llama-3.2-3b 42% ⠏[?25lLoading meta/llama-3.2-3b 42% ⠋[?25lLoading meta/llama-3.2-3b 43% ⠋[?25lLoading meta/llama-3.2-3b 43% ⠙[?25lLoading meta/llama-3.2-3b 43% ⠹[?25lLoading meta/llama-3.2-3b 43% ⠹[?25lLoading meta/llama-3.2-3b 43% ⠸[?25lLoading meta/llama-3.2-3b 44% ⠸[?25lLoading meta/llama-3.2-3b 44% ⠼[?25lLoading meta/llama-3.2-3b 45% ⠼[?25lLoading meta/llama-3.2-3b 45% ⠴[?25lLoading meta/llama-3.2-3b 45% ⠦[?25lLoading meta/llama-3.2-3b 45% ⠦[?25lLoading meta/llama-3.2-3b 45% ⠧[?25lLoading meta/llama-3.2-3b 46% ⠧[?25lLoading meta/llama-3.2-3b 46% ⠇[?25lLoading meta/llama-3.2-3b 46% ⠇[?25lLoading meta/llama-3.2-3b 46% ⠏[?25lLoading meta/llama-3.2-3b 46% ⠋[?25lLoading meta/llama-3.2-3b 47% ⠋[?25lLoading meta/llama-3.2-3b 47% ⠙[?25lLoading meta/llama-3.2-3b 48% ⠙[?25lLoading meta/llama-3.2-3b 48% ⠹[?25lLoading meta/llama-3.2-3b 48% ⠹[?25lLoading meta/llama-3.2-3b 48% ⠸[?25lLoading meta/llama-3.2-3b 48% ⠼[?25lLoading meta/llama-3.2-3b 49% ⠼[?25lLoading meta/llama-3.2-3b 100% ⠼[K[?25hAqui está um exemplo de código em HTML e CSS para criar um SVG de um pelicano andando de bicicleta:
+
+**HTML:**
+```html
+<svg width="200" height="150">
+  <!-- Corpo do pelicano -->
+  <circle cx="50" cy="70" r="30" fill="#964B00" />
+  
+  <!-- Cabeça e rosto -->
+  <circle cx="60" cy="40" r="10" fill="#964B00" />
+  <ellipse cx="55" cy="45" rx="15" ry="5" fill="#964B00" />
+  
+  <!-- Orelhas -->
+  <circle cx="70" cy="50" r="5" fill="#964B00" />
+  <circle cx="40" cy="50" r="5" fill="#964B00" />
+  
+  <!-- Braço esquerdo -->
+  <line x1="60" y1="80" x2="30" y2="120" stroke="#964B00" />
+  
+  <!-- Braço direito -->
+  <line x1="60" y1="80" x2="90" y2="120" stroke="#964B00" />
+  
+  <!-- Pedal esquerdo -->
+  <circle cx="30" cy="130" r="10" fill="#964B00" />
+  
+  <!-- Pedal direito -->
+  <circle cx="90" cy="130" r="10" fill="#964B00" />
+  
+  <!-- Roda esquerda -->
+  <circle cx="25" cy="150" r="30" fill="#000" />
+  
+  <!-- Roda direita -->
+  <circle cx="105" cy="150" r="30" fill="#000" />
+</svg>
+```
+
+**CSS:**
+```css
+body {
+  background-color: #f2f2f2;
+}
+
+.svg {
+  margin: 20px auto;
+  display: block;
+}
+```
+Lembre-se de que você pode personalizar o código para melhorar a aparência do seu SVG.
+
+Para criar um arquivo HTML e CSS separados, você pode copiar os códigos acima em dois arquivos diferentes:
+
+*   `pelicano.html` (HTML):
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pelecão</title>
+  <link rel="stylesheet" href="pelicano.css">
+</head>
+<body>
+  <svg class="svg" width="200" height="150"></svg>
+</body>
+</html>
+```
+*   `pelicano.css` (CSS):
+```css
+body {
+  background-color: #f2f2f2;
+}
+
+.svg {
+  margin: 20px auto;
+  display: block;
+}
+```
+
+Depois, você pode abrir o arquivo `pelicano.html` no navegador para visualizar o SVG do pelicano andando de bicicleta.
+
+Prediction Stats:
+  Stop Reason: eosFound
+  Tokens/Second: 102.01
+  Time to First Token: 0.584s
+  Prompt Tokens: 68
+  Predicted Tokens: 658
+  Total Tokens: 726
+

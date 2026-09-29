@@ -1,0 +1,25 @@
+[?25lLoading qwen/qwen2.5-7b ⠙[?25lLoading qwen/qwen2.5-7b ⠹[?25lLoading qwen/qwen2.5-7b ⠸[?25lLoading qwen/qwen2.5-7b ⠼[?25lLoading qwen/qwen2.5-7b ⠴[?25lLoading qwen/qwen2.5-7b ⠦[?25lLoading qwen/qwen2.5-7b 0% ⠦[?25lLoading qwen/qwen2.5-7b 0% ⠧[?25lLoading qwen/qwen2.5-7b 0% ⠇[?25lLoading qwen/qwen2.5-7b 2% ⠇[?25lLoading qwen/qwen2.5-7b 2% ⠏[?25lLoading qwen/qwen2.5-7b 4% ⠏[?25lLoading qwen/qwen2.5-7b 4% ⠋[?25lLoading qwen/qwen2.5-7b 6% ⠋[?25lLoading qwen/qwen2.5-7b 6% ⠙[?25lLoading qwen/qwen2.5-7b 7% ⠙[?25lLoading qwen/qwen2.5-7b 7% ⠹[?25lLoading qwen/qwen2.5-7b 7% ⠸[?25lLoading qwen/qwen2.5-7b 9% ⠸[?25lLoading qwen/qwen2.5-7b 9% ⠼[?25lLoading qwen/qwen2.5-7b 11% ⠼[?25lLoading qwen/qwen2.5-7b 11% ⠴[?25lLoading qwen/qwen2.5-7b 12% ⠴[?25lLoading qwen/qwen2.5-7b 12% ⠦[?25lLoading qwen/qwen2.5-7b 12% ⠧[?25lLoading qwen/qwen2.5-7b 14% ⠧[?25lLoading qwen/qwen2.5-7b 14% ⠇[?25lLoading qwen/qwen2.5-7b 14% ⠏[?25lLoading qwen/qwen2.5-7b 14% ⠋[?25lLoading qwen/qwen2.5-7b 14% ⠙[?25lLoading qwen/qwen2.5-7b 14% ⠹[?25lLoading qwen/qwen2.5-7b 14% ⠸[?25lLoading qwen/qwen2.5-7b 15% ⠸[?25lLoading qwen/qwen2.5-7b 15% ⠼[?25lLoading qwen/qwen2.5-7b 15% ⠴[?25lLoading qwen/qwen2.5-7b 15% ⠦[?25lLoading qwen/qwen2.5-7b 15% ⠧[?25lLoading qwen/qwen2.5-7b 15% ⠇[?25lLoading qwen/qwen2.5-7b 15% ⠏[?25lLoading qwen/qwen2.5-7b 15% ⠋[?25lLoading qwen/qwen2.5-7b 15% ⠙[?25lLoading qwen/qwen2.5-7b 15% ⠹[?25lLoading qwen/qwen2.5-7b 15% ⠸[?25lLoading qwen/qwen2.5-7b 15% ⠼[?25lLoading qwen/qwen2.5-7b 15% ⠴[?25lLoading qwen/qwen2.5-7b 15% ⠦[?25lLoading qwen/qwen2.5-7b 15% ⠧[?25lLoading qwen/qwen2.5-7b 15% ⠇[?25lLoading qwen/qwen2.5-7b 15% ⠏[?25lLoading qwen/qwen2.5-7b 16% ⠏[?25lLoading qwen/qwen2.5-7b 16% ⠋[?25lLoading qwen/qwen2.5-7b 16% ⠙[?25lLoading qwen/qwen2.5-7b 17% ⠙[?25lLoading qwen/qwen2.5-7b 17% ⠹[?25lLoading qwen/qwen2.5-7b 19% ⠹[?25lLoading qwen/qwen2.5-7b 19% ⠸[?25lLoading qwen/qwen2.5-7b 20% ⠸[?25lLoading qwen/qwen2.5-7b 20% ⠼[?25lLoading qwen/qwen2.5-7b 20% ⠴[?25lLoading qwen/qwen2.5-7b 21% ⠴[?25lLoading qwen/qwen2.5-7b 21% ⠦[?25lLoading qwen/qwen2.5-7b 23% ⠦[?25lLoading qwen/qwen2.5-7b 23% ⠧[?25lLoading qwen/qwen2.5-7b 24% ⠧[?25lLoading qwen/qwen2.5-7b 24% ⠇[?25lLoading qwen/qwen2.5-7b 24% ⠏[?25lLoading qwen/qwen2.5-7b 25% ⠏[?25lLoading qwen/qwen2.5-7b 25% ⠋[?25lLoading qwen/qwen2.5-7b 26% ⠋[?25lLoading qwen/qwen2.5-7b 26% ⠙[?25lLoading qwen/qwen2.5-7b 27% ⠙[?25lLoading qwen/qwen2.5-7b 27% ⠹[?25lLoading qwen/qwen2.5-7b 27% ⠸[?25lLoading qwen/qwen2.5-7b 28% ⠸[?25lLoading qwen/qwen2.5-7b 28% ⠼[?25lLoading qwen/qwen2.5-7b 29% ⠼[?25lLoading qwen/qwen2.5-7b 29% ⠴[?25lLoading qwen/qwen2.5-7b 30% ⠴[?25lLoading qwen/qwen2.5-7b 30% ⠦[?25lLoading qwen/qwen2.5-7b 31% ⠦[?25lLoading qwen/qwen2.5-7b 31% ⠧[?25lLoading qwen/qwen2.5-7b 31% ⠇[?25lLoading qwen/qwen2.5-7b 32% ⠇[?25lLoading qwen/qwen2.5-7b 32% ⠏[?25lLoading qwen/qwen2.5-7b 33% ⠏[?25lLoading qwen/qwen2.5-7b 33% ⠋[?25lLoading qwen/qwen2.5-7b 34% ⠋[?25lLoading qwen/qwen2.5-7b 34% ⠙[?25lLoading qwen/qwen2.5-7b 34% ⠹[?25lLoading qwen/qwen2.5-7b 35% ⠹[?25lLoading qwen/qwen2.5-7b 35% ⠸[?25lLoading qwen/qwen2.5-7b 36% ⠸[?25lLoading qwen/qwen2.5-7b 36% ⠼[?25lLoading qwen/qwen2.5-7b 36% ⠼[?25lLoading qwen/qwen2.5-7b 36% ⠴[?25lLoading qwen/qwen2.5-7b 36% ⠦[?25lLoading qwen/qwen2.5-7b 37% ⠦[?25lLoading qwen/qwen2.5-7b 37% ⠧[?25lLoading qwen/qwen2.5-7b 38% ⠧[?25lLoading qwen/qwen2.5-7b 100% ⠧[?25lLoading qwen/qwen2.5-7b 100% ⠇[K[?25hClaro! Aqui está um exemplo simples de um SVG para uma casa amarela com um telhado vermelho e uma porta marrom:
+
+```svg
+<svg width="200" height="300">
+  <!-- Corpo da Casa -->
+  <rect x="50" y="150" width="100" height="80" fill="#FFD700"/>
+  
+  <!-- Telhado Vermelho -->
+  <polygon points="60,100 160,100 110,30" fill="#FF0000"/>
+  
+  <!-- Porta Marrom -->
+  <rect x="95" y="200" width="15" height="40" fill="#8B4513"/>
+</svg>
+```
+
+Você pode ajustar as dimensões e posições conforme necessário. Este SVG cria uma simples imagem de uma casa com a cor solicitada.
+
+Prediction Stats:
+  Stop Reason: eosFound
+  Tokens/Second: 49.77
+  Time to First Token: 0.156s
+  Prompt Tokens: 55
+  Predicted Tokens: 209
+  Total Tokens: 264
+
